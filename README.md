@@ -79,3 +79,5 @@ open PomodoroTimer/PomodoroTimer.xcodeproj
 ## 许可证
 
 MIT
+
+Vamos, WHY!
